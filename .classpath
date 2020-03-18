@@ -30,6 +30,5 @@
 	<classpathentry kind="lib" path="C:/Users/Dhilip/Downloads/selenium-java/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Dhilip/Downloads/selenium-java/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Dhilip/Downloads/selenium-java-2.29.0.jar/selenium-java-2.29.0.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
